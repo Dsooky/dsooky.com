@@ -339,3 +339,41 @@ template {
 [hidden] {
   display: none;
 }
+
+
+
+@font-face {
+  font-family: 'Omar Dsoky -h2';
+  src: url('../fonts/brandongrotesque-light-webfont.woff2') format('woff2'), url('../fonts/brandongrotesque-light-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Omar Dsoky -h2_italic';
+  src: url('../fonts/brandongrotesque-lightitalic-webfont.woff2') format('woff2'), url('../fonts/brandongrotesque-lightitalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Omar Dsoky -h1';
+  src: url('../fonts/museo_900-webfont.woff2') format('woff2'), url('../fonts/museo_900-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Omar Dsoky -h3';
+  src: url('../fonts/museo700-regular-webfont.woff2') format('woff2'), url('../fonts/museo700-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Omar-Dsoky -p';
+  src: url('../fonts/brandongrotesque-regular-webfont.woff2') format('woff2'), url('../fonts/brandongrotesque-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
