@@ -9,6 +9,7 @@ body {
   color: #333333;
   background: url('../img/body.png');
   background-repeat: repeat;
+  font-family: 'Omar-Dsoky -p', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 /*  |||||||||| START |||||||||| */
@@ -453,11 +454,8 @@ template {
   display: none;
 }
 
-
-
 @font-face {
   font-family: 'Omar Dsoky -h2';
-  font-display: auto;
   src: url('../fonts/brandongrotesque-light-webfont.woff2') format('woff2'), url('../fonts/brandongrotesque-light-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
@@ -465,35 +463,29 @@ template {
 
 @font-face {
   font-family: 'Omar Dsoky -h2_italic';
-  font-display: auto;
   src: url('../fonts/brandongrotesque-lightitalic-webfont.woff2') format('woff2'), url('../fonts/brandongrotesque-lightitalic-webfont.woff') format('woff');
   font-weight: normal;
-  font-style: normal;
+  font-style: italic;
 }
 
 @font-face {
   font-family: 'Omar Dsoky -h1';
-  font-display: auto;
   src: url('../fonts/museo_900-webfont.woff2') format('woff2'), url('../fonts/museo_900-webfont.woff') format('woff');
-  font-weight: normal;
+  font-weight: 900;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Omar Dsoky -h3';
-  font-display: auto;
   src: url('../fonts/museo700-regular-webfont.woff2') format('woff2'), url('../fonts/museo700-regular-webfont.woff') format('woff');
-  font-weight: normal;
+  font-weight: 700;
   font-style: normal;
 }
 
 
 @font-face {
   font-family: 'Omar-Dsoky -p';
-  font-display: auto;
   src: url('../fonts/brandongrotesque-regular-webfont.woff2') format('woff2'), url('../fonts/brandongrotesque-regular-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
-
-p{font-family: 'Omar-Dsoky -p', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
